@@ -1,0 +1,6 @@
+.idea*
+.git*
+.DS_Store
+*.iml
+Thumbs.db
+node_modules
